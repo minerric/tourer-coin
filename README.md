@@ -15,7 +15,8 @@ Tourer wallet repository
 - P2P Port 28614 
 - RPC Port 28641 
 - Explorer https://explorer.tourer.io 
-- Website https://tourer.io Github https://github.com/tourercoin/tourer
+- Website https://tourer.io 
+- Github https://github.com/tourercoin/tourer-coin
 
 ### Rewards Breakdown
 
