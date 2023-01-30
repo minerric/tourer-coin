@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Tourer 
+Comment=Tourer P2P Cryptocurrency
+Comment[fr]=Tourer, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Tourer, eşten eşe kriptografik sanal para birimi
+Exec=tourer-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/tourer;
+Categories=Office;Finance;
+StartupWMClass=tourer-qt
