@@ -4,8 +4,8 @@ Tourer wallet repository
 
 ### Coin Specs
 
-- Premine 100,000,000 Max Supply 
-- 5,000,020,000 
+- Premine 100,000,000 
+- Max Supply 5,000,020,000 
 - PoW Alforithm Xevan 
 - PoW Blocks 1 - 1000 
 - PoS Blocks Starting from 1001 
